@@ -1,0 +1,13 @@
+body{
+	background-color: #888;
+}
+#game{
+	border-style: dotted;
+	color:black;
+	text-align: center;
+	width:500px;
+	height:500px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
